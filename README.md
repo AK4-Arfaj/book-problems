@@ -1,5 +1,6 @@
 # book-problems
 ## Solving problems from the book: Introduction to Java Programing and Data Structures, by Y. Daniel Liang
+## Difficulties:
 ### - E: Easy
 ### - M: Medium
 ### - H: Hard
