@@ -13,5 +13,3 @@ public class Prob_18_12_H {
         }
     }
 }
-
-
