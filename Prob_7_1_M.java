@@ -35,8 +35,5 @@ public class Prob_7_1_M {
             else
                 System.out.println("F");
         }
-
     }
-
-
 }
