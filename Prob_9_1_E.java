@@ -17,4 +17,3 @@ public class Prob_9_1_E {
                 rectangle2.getPerimeter());
     }
 }
-
